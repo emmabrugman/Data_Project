@@ -3,6 +3,4 @@
 
 For Task A Please Include:
 
-task_a-6.ipynb (This contains final code for task a including all models used in testing, predictions on test data, code to export the csv, and figuures.)
-sentiment_scores.json.zip (training data)
-sentiment_scores_test.json.zip (testing data)
+task_a-&.ipynb (This contains final code for task a including all models used in testing, predictions on test data, code to export the csv, and figuures.)
